@@ -118,7 +118,7 @@
                 <version>3.0.0-M5</version> <!-- or latest version -->
                 <configuration>
                     <includes>
-                        <include>**/*test.java</include> <!-- Ensure your test classes follow this naming convention -->
+                        <include>**/*test.java</include>
                     </includes>
                 </configuration>
             </plugin>
