@@ -5,7 +5,7 @@ public class GetterSetter {
     public static String setLocationName;
 
 
-    public static String token = "eyJhbGciOiJIUzI1NiJ9.eyJfaWQiOiI2NGNhNWQzNjFmMGRmYjAwMTJjN2I1YmUiLCJlbWFpbCI6ImpheS5wYXRpZGFyQGFkaXQuY29tIiwicm9sZSI6ImRldmVsb3BlciIsImNyZWF0ZWRfZGF0ZSI6IjIwMjMtMDgtMDJUMTM6NDI6MTQuNDAwWiIsInVzZXJTZXNzaW9uSWQiOiJlZjc5Mzk4ZC1iMmZiLTRjOTQtYWE0My00NGIwODE3Y2VlNmEifQ.oZ6tpEGZtbQkc99e4e_cdqPLUUCZoDPp4UFEUTQcwNg";
+    public static String token = "eyJhbGciOiJIUzI1NiJ9.eyJfaWQiOiI2NGNhNWQzNjFmMGRmYjAwMTJjN2I1YmUiLCJlbWFpbCI6ImpheS5wYXRpZGFyQGFkaXQuY29tIiwicm9sZSI6ImRldmVsb3BlciIsImNyZWF0ZWRfZGF0ZSI6IjIwMjMtMDgtMDJUMTM6NDI6MTQuNDAwWiIsInVzZXJTZXNzaW9uSWQiOiIxZDI2NDRjNS1lZjA5LTQzM2MtOTdmYS0wOTViOGVmNjQ1YmIifQ.Zm_g6-txOmq6JjyyTZaO6dfsK_j1eUSVpNudN11MYHY";
 
     // Organization
     public static String getOrganizationName() {return OrganizationName;}

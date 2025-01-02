@@ -16,7 +16,7 @@ public class Csv_reader {
 
 
     public static List<List<String>>  ReadCsvData() {
-        String filePath ="C:\\Users\\adit\\Desktop\\OrganizationLocation.csv";
+        String filePath ="C:\\Users\\adit\\IdeaProjects\\AdminPanelClientDetailsFetch\\src\\test\\java\\utilities\\OrganizationLocation.csv";
         List<List<String>> credentials = new ArrayList<>();
         try (CSVReader reader = new CSVReader(new FileReader(filePath))) {
             // Read the header row (and discard it)
